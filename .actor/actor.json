@@ -1,0 +1,9 @@
+{
+  "actorSpecVersion": 1,
+  "name": "nexus-tripadvisor-scraper",
+  "title": "TripAdvisor Scraper",
+  "description": "Crawls tripadvisor.com search, extracts name, rating, reviewCount, category, price, location, imageUrl, listingUrl",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "environmentVariables": [],
+}
